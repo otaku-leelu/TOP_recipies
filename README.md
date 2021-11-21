@@ -1,2 +1,2 @@
 # TOP_recipies
-A project submissiont to The Project Odin
+A project submission to [The Project Odin](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/recipes)
