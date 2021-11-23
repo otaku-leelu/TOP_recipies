@@ -13,3 +13,5 @@ edit:
 iam able to write only two recipies, i mean two are enough to think iam good at what TOP taught me till now.
 
 update1: done some changes.. even though its not working :'-(
+
+update2: finally deployed after doing trail and error methods for a small problem.. maybe developer role isnt for me i guess.. :''-(
