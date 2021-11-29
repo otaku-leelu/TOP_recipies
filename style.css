@@ -1,0 +1,20 @@
+.heading{
+    color: lightcoral;
+    font-family: 'Times New Roman', monospace;
+    font-style: italic;
+    font-size: larger;
+}
+#sanji-image{
+    height: 290px;
+    width: 290px;
+}
+.button-spring{
+    background-color: goldenrod ;
+    font-size: 16px;
+    font-family: monospace ;
+}
+.button-orange{
+    background-color: orangered;
+    font-size: 16px;
+    font-family: monospace;
+}
